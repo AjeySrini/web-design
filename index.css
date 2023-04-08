@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(234, 239, 243, 0.849);
+}
+.fa{
+   color: rgba(0, 123, 255, 0.817);
+}
+.box-inside{
+    background-color: rgba(149, 204, 213, 0.563);
+    padding: 55px 5px;
+    margin:20px 10px;
+       
+}
+a{
+    border-bottom: 1px solid blue;
+  
+}
+span{
+    font-size: 13px;
+}
+.box{
+padding: 50px ;
+}
+.content{
+    margin:20px 0px;
+}
